@@ -1,0 +1,60 @@
+D1(6/1/2020): I am on lesson 5. I completed the calculation of the output for the multi-layer network.
+D2(7/1/2020): I worked on Lesson 5, neural networks in Pytorch. I completed the exercise about MNIST, using softmax and relu activations.
+D3(8/1/2020): Still working on Lesson 5, neural networks in Pytorch. I repeated the exercise about MNIST, using softmax and relu activations, using different number of layers.
+D4(9/1/2020): I trained my first neural network using MNIST dataset.
+D5(10/1/2020): I studied about the dataset fashion-MNIST. Tomorrow I plan to make the classification model. I read the paper about swish activation.
+D6(11/1/2020): I tried to solve Fashion-MNIST with MLP.
+D7(12/1/2020): I had a little time today, so I made a revision of the previous lessons and solved again the datasets MNIST and F-MNIST. And had an introduction in inference and validation.  
+D8(13/1/2020): I finished lesson 5!
+D9(14/1/2020): Today I started lesson 6 and completed almost half of it. I am on high-pass filters.
+D10(15/1/2020): I learned about sobel kernels and their use for edge detection.
+D11(16/1/2020): I did sections 26 to 34 of lesson 6 and studied about stride, padding and pooling layers.
+D12(17/1/2020): I finished lesson 6!
+D13(18/1/2020): I downloaded the Natural images datasets from kaggle and I did the classification, using a pretrained model. I did not have time to do the validation. I only trained the model. Tomorrow I will do the validation and testing.
+D14(19/1/2020): I completed my first project. I classified the Natural images datasets(similar to cifar10) from kaggle using a pretrained model. I show a few videos of lesson 7. 
+D15(20/1/2020): I started working on the Chinese Zodiac Sign Classification Challenge. I hope to have the results by tomorrow. I am half way through with Lesson 7. 
+D16(21/1/2020): I finished Lesson 7
+D17(22/1/2020): I worked on the Chinese Zodiac Sign Classification Challenge. I plan to have the results by tomorrow and begin lesson 8.
+D18(23/1/2020): I tested different models for the Chinese Zodiac Sign Classification Challenge and studied some relative papers. 
+D19(24/1/2020): I did the Chinese Zodiac Sign Classification Challenge. It was a fun project. Tomorrow I plan to start lesson 8.
+D20(25/1/2020): I started lesson 8. I am halfway through.
+D21(26/1/2020): I didn't have much time so I studied about pre-trained models in pytorch hub.
+D22(27/1/2020): I continued with Lesson 8.
+D23(28/1/2020): Still in Lesson 8. I viewed videos 13 to 18. 
+D24(29/1/2020): I finished Lesson 8.
+D25(30/1/2020): I started Lesson 9. 
+D26(31/1/2020): I decided to begin a project. I searched kaggle for interesting datasets and I did the preprocessing of data. Hope to have the results in the weekend.
+D27(1/2/2020): I decided to begin a project. I searched kaggle for interesting datasets and I did the preprocessing of data. Hope to have the results in the weekend.
+D28(2/2/2020): Since I decided in the project I started to create my own model and not use a pretrained one, I spent the day testing different architectures and training the model.
+D29(3/2/2020): Still working on the project I started a couple of days ago. I also continued with Lesson 9(9.3-9.6).
+D30(4/2/2020): I revised videos 9.1 to 9.6 from Lesson 9.
+D31(5/2/2020): I continued with Lesson 9 (videos 9.7 to 9.8).
+D32(6/2/2020): I have almost finished with the fruits360 dataset. Here are the initial results, using my custom model. Tomorrow I will manage to 	      further improve it.
+D33(7/2/2020): I solved the fruits360 dataset with a pretrained model to check the differences using a custom and a pretrained one.
+D34(8/2/2020): I finished Lesson 9.
+D35(9/2/2020): I started Lesson 10.
+D36(10/2/2020): I started a new image classification project.
+D37(11/2/2020): I completed the Challenge Course. From now on revisions and projects!
+D38(12/2/2020): I am working on a flower classification project.
+D39(13/2/2020): Here are the first results of the flower classification project.
+D40(14/2/2020): I started a new project.
+D41(15/2/2020): Still working on the new classification project.
+D42(16/2/2020): Did some revision on the final project of the recurrent neural networks lesson.
+D43(17/2/2020): I continued working on the project of D40.
+D44(18/2/2020): I finished the project I was working on. I will try to improve it and tomorrow I will have the final results.
+D45(19/2/2020): I finished the dog classification project. Here are the results. (19/2)
+D46(20/2/2020): I worked on a new project. I have almost finished. I tried to improve the results.
+D47(21/2/2020): I experimented with style transfer and continued working on the project.
+D48(22/2/2020): I have the first results of the project I am working on. Tomorrow I will further improve it.
+D49(23/2/2020): I improved a little bit the results of my project.
+D50(24/2/2020): Revision on RNN.
+D51(25/2/2020): I did some research on time-series with RNN and trained a simple RNN to do time-series prediction
+D52(26/2/2020): I started working on CIFAR-100.
+D53(27/2/2020): Still working on CIFAR-100.
+D54(28/2/2020): I had my first results on CIFAR-100, but I try to improve it.
+D55(29/2/2020): I tested different models and normalizations on cifar-100. 
+D56(1/3/2020): I worked on CIFAR-100. I tested different models and transformations and I tried to create my custom transformation.
+D57(2/3/2020): I workrd on CIFAR-100.
+D58(3/3/2020): I worked on a time-series project using RNN.
+D59(4/3/2020): Still working on the time-series project with temperature data, using RNN.
+D60(5/3/2020): I still work on the time-series project with temperature data.
